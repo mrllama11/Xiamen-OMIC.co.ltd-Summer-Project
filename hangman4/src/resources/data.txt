@@ -1,0 +1,8 @@
+**Animals**,Lion,Zebra,Elephant,Bird,Tiger,Panda,Komodo Dragon,Dragon
+**Sports**,Basketball,Soccer,Football,Badminton,Volleyball,Golf,
+**Fruits**,Banana,Orange,Apple,Strawberry,Mango,Tomato,
+***Anime***, Naruto, One Piece, Dragon Ball,Demon slayer,Detective Conan,Doraemon,Ultraman,Kamen Rider,Pokemon,Attack on titan ,one punch man , Jojo
+***South East Asia Countries/ASEAN***, Malaysia, Indonesia,Singapore,Myanmar,Cambodia,Thailand,Brunei,Philippines,Vietnam,Laos,East Timor
+**Europe Countries**,Hungary,Iceland,Poland,Portugal,Russia,Italy,Sweden,Denmark,Ukraine,Monaco,United Kingdom,Greece,Finland,Germany,France,Norway,Vatican,Spain,Switzerland
+****Food****,Pizza,Sushi,Hot dog, Dumpling,Ramen,Curry,Hamburger,Spaghetti,Fried Rice, Fried Chicken,Tacos,Ice Cream,Pasta,Steak,French Fries,Salad,Bread,Noodles,Soup,Sandwich,Chocolate
+
